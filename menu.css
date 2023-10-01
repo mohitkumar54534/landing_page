@@ -1,0 +1,30 @@
+
+h1{
+    text-align:center;
+    font-weight: bolder;
+    color:black
+}
+input[type="submit"]{
+    background-color:blue;
+   color:white;
+    padding:12px 10px;
+    border:none;
+    border-radius:30px;
+    cursor:pointer;
+   /* top:-87px; */
+   text-indent:-8px ;
+  }
+  .input{
+    background-color:green;
+   color:white;
+    padding:12px 10px;
+    border:none;
+    border-radius:30px;
+    cursor:pointer;
+    width:110px;
+    text-indent:-10px;
+  }
+  body{
+    background-color:aliceblue;
+  }
+
